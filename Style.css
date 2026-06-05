@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  background: lightblue;
+}
+
+#i {
+  border: solid 6px darkgrey;
+  border-radius: 90px;
+  padding: 8px;
+  background: lightyellow;
+}
+
+#b {
+  border: solid 6px darkgrey;
+  border-radius: 70px;
+  padding: 8px;
+  background: lightyellow;
+}
+
+p {
+  border: solid 4px brown;
+  border-radius: 4px;
+  text-decoration: underline  pink 3px;
+  background: darkblue;
+  color: white;
+  font-weight: bolder;
+}
+
+button {
+  border-radius: 7px;
+  background: #F5DEB3;
+}
